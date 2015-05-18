@@ -1,5 +1,5 @@
 {
-  "name": "color",
+  "name": "kk-color",
   "version": "0.8.0",
   "description": "Color conversion and manipulation with CSS string support",
   "keywords": [
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "color-convert": "^0.5.0",
-    "color-string": "^0.3.0"
+    "kk-color-string": "^0.3.0"
   }
 }
