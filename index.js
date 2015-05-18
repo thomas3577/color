@@ -1,6 +1,6 @@
 /* MIT license */
 var convert = require("color-convert"),
-    string = require("color-string");
+    string = require("kk-color-string");
 
 var Color = function(obj) {
   if (obj instanceof Color) return obj;
